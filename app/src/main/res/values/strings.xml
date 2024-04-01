@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoicmFqYWJvdjUwMiIsImEiOiJjbHE4NGFtZWoxNzBxMmpwczIzYnFyMHg0In0.Ujr7NEHMjSIimyc6zLDrNg</string>
+    <string name="str_restaurants">Restoranlar</string>
+    <string name="str_show_location">Manzilni ko\'rish</string>
+
+</resources>
